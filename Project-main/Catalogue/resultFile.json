@@ -1,0 +1,26 @@
+[ {
+  "examID" : 555,
+  "name" : "opp",
+  "type" : "test"
+}, {
+  "Student{id=234, name='nata', surname='buk'}" : [ {
+    "klausimas" : 0,
+    "atsakymas" : "a"
+  }, {
+    "klausimas" : 1,
+    "atsakymas" : "b"
+  }, {
+    "klausimas" : 2,
+    "atsakymas" : "c"
+  } ],
+  "Student{id=123, name='kiril', surname='buk'}" : [ {
+    "klausimas" : 0,
+    "atsakymas" : "a"
+  }, {
+    "klausimas" : 1,
+    "atsakymas" : "b"
+  }, {
+    "klausimas" : 2,
+    "atsakymas" : "a"
+  } ]
+} ]

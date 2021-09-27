@@ -1,0 +1,19 @@
+[ {
+  "examID" : 555,
+  "name" : "opp",
+  "type" : "test"
+}, [ {
+  "student" : {
+    "id" : 123,
+    "name" : "kiril",
+    "surname" : "buk"
+  },
+  "scour" : 6
+}, {
+  "student" : {
+    "id" : 234,
+    "name" : "nata",
+    "surname" : "buk"
+  },
+  "scour" : 10
+} ] ]

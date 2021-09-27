@@ -1,0 +1,12 @@
+[ {
+  "examID" : 123,
+  "name" : "oop",
+  "type" : "test"
+}, [ {
+  "student" : {
+    "id" : 111,
+    "name" : "nata",
+    "surname" : "buk"
+  },
+  "scour" : 7
+} ] ]

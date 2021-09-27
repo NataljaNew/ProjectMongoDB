@@ -1,0 +1,14 @@
+[ {
+  "examID" : 555,
+  "name" : "opp",
+  "type" : "test"
+}, [ {
+  "klausimas" : 0,
+  "atsakymas" : "a"
+}, {
+  "klausimas" : 1,
+  "atsakymas" : "b"
+}, {
+  "klausimas" : 2,
+  "atsakymas" : "c"
+} ] ]
